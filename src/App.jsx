@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css";
 
-import Homepage from "./Homepage.component.jsx";
+import Homepage from "./pages/homepage/Homepage.component.jsx";
 
 class App extends React.Component {
   render() {
